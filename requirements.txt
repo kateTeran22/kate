@@ -1,1 +1,4 @@
 streamlit
+rpy2
+pandas
+statsmodels
